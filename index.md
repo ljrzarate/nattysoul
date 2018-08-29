@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Mi Primera Vez
 
-You can use the [editor on GitHub](https://github.com/ljrzarate/nattysoul/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Esta es la primera vez que voy a tratar de expresar lo que siento escribiendo, pero no solo escribiendo, como cuando uno escribe cartas de amor porque habia que hacerlo para entrompar o para satisfacer los caprichos de alguien, solo tengo esos ejemplos porque es como he "expresado mis sentimientos" en cartas o por escrito antes, pero esta vez en ralidad estoy escribiendo. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+`La vida es la suma de primeras veces, no se de donde saque la frase, pero esta chavere.`
 
-### Markdown
+Si a alguien le preguntaran, cual ha sido una de sus mejores primeras veces?, probablemente responderia con la primera vez 
+que se tiro en paracaidas, o la primera vez que vio a su hijo, o la primera vez que hizo el amor, hasta ahora en mi vida o
+al menos para mi vision de la vida en estos momentos, no ha pasado nada tan memorable como para entrar en esa, que para mi, es 
+una categoria que debe ser llenada con lo mas impresionante de todo el mundo, una experiencia totalmente unica y si es 
+posible que rose con lo inhumano y creo que ha mi no me ha pasado nada asi aun.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+pero si me paso algo que agradezco en cada momento, y es que tengo dos personas muy especiales en mi vida, dos amigos, 
+dicen que lo unico que se puede escoger en la vida son los amigos.
 
-```markdown
-Syntax highlighted code block
+Con ambos he compartido muchas de mis primeras veces, y hasta ahora las mejores. En esta ocacion hablare de uno de 
+esos amigos llamemos lo **Y**.
 
-# Header 1
-## Header 2
-### Header 3
+ironicamente no recuerdo la primera vez que vi Y, pero si recuerdo muchas otras veces que cuando veia a este amigo, 
+me llenaba de nervios, me mojaba los labios y solo pasaba al lado y saludaba.
 
-- Bulleted
-- List
+Conocia a Y gracias a el nerdo del colegio, llamemoslo **Betto**,  no tengo idea como me hice amigo de el, pero es buen amigo.
+Una primera vez que recuerdo haber vivido con **Y** fue la primera vez que me hizo reir, estabamos **Y**, **Betto**, yo.
+**Betto** acostumbrado a ser primer puesto y tener muchas veces la razon, esta verborreando como acostumbra sobre cosas
+que a veces son bastante sencillas, y en ese momento **Y**, de la manera mas irreverente le grita: "Ay! ya callate **Betto**".
 
-1. Numbered
-2. List
+Ese dia, supe que me iba a enamorar de **Y**.
 
-**Bold** and _Italic_ and `Code` text
+`Mientras escribo esto pienso en que suene pro, que tonteria.`
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ljrzarate/nattysoul/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+...
+Hoy ella cumple 27 y el regalo me lo esta dando ella a mi, al hacerme empezar una nueva fase en mi vida, esta es otra primera vez que sin ella, quiza, no hubieran ocurrido
+
