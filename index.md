@@ -71,4 +71,4 @@ tambien de forma paralela se ha convertido en la sociedad hoy en dia, la politic
 
 Ahora les podria decir es tu deber solenme aprender como disfrutar de ti mismo, porque en la edad de ocio, la gente de verdad sabra como disfrutarse, porque si no saben como destruiran todo el futuro de la raza hunama
 
-Asi que una utopia ya no es un sue;o si no una necesidad, no podemos estar sin ella
+Asi que una utopia ya no es un sue;o si no una necesidad, no podemos estar sin ella... (Work in progress)
