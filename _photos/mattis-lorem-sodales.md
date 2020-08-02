@@ -1,6 +1,6 @@
 ---
-title: Mattis lorem sodales
-image: assets/images/fulls/12.jpg
-thumbnail: assets/images/thumbs/12.jpg
-caption: Feugiat auctor leo massa, nec vestibulum nisl erat faucibus, rutrum nulla.
+title: Iquitos, Peru
+image: assets/images/fulls/terrance-1.jpg
+thumbnail: assets/images/thumbs/terrance-1.jpg
+caption: Share whatever the hell you can share, but share it
 ---

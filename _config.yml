@@ -1,7 +1,7 @@
 # Site settings
-title: Lens
-description: Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a>
-baseurl: "/lens-jekyll-theme" # the subpath of your site, e.g. /blog
+title: nattylense
+description: nattylense official page
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 
@@ -10,16 +10,16 @@ collections:
   photos:
 
 # Social settings
-500px_url:
+500px_url: https://500px.com/nattylense
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+github_url: https://github.com/ljrzarate/
+gitlab_url:
+googleplus_url:
+instagram_url: http://instagram.com/nattylense
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url:
 
 # Build settings
 markdown: kramdown

@@ -1,6 +1,6 @@
 ---
-title: Vivamus convallis libero
-image: assets/images/fulls/02.jpg
-thumbnail: assets/images/thumbs/02.jpg
-caption: Sed velit lacus, laoreet at venenatis convallis in lorem tincidunt.
+title: Friday Girl
+image: assets/images/fulls/teri-1.jpg
+thumbnail: assets/images/thumbs/teri-1.jpg
+caption: Set in the coronavirus thing
 ---

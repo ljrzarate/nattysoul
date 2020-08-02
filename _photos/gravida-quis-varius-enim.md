@@ -1,6 +1,6 @@
 ---
-title: Gravida quis varius enim
-image: assets/images/fulls/08.jpg
-thumbnail: assets/images/thumbs/08.jpg
-caption: Nunc egestas congue lorem. Nullam dictum placerat ex sapien tortor mattis.
+title: Friday Girl
+image: assets/images/fulls/teri-3.jpg
+thumbnail: assets/images/thumbs/teri-3.jpg
+caption: Set in the coronavirus thing
 ---
